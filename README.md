@@ -9,3 +9,4 @@ Habilidades
 
 ## Social
 ![insta](https://www.producthunt.com/tech/instagram-8.jpg)
+[![insta](https://www.producthunt.com/tech/instagram-8.jpg)](instagram.com.br/eduarda_tar)
